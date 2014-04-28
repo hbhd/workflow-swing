@@ -9,5 +9,6 @@ public class TestA {
 
     public static void main(){
         System.out.println("this is only a test!");
+        System.out.println("Hello world");
     }
 }
