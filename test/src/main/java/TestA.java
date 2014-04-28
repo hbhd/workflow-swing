@@ -8,6 +8,6 @@
 public class TestA {
 
     public static void main(){
-        System.out.println("ETD");
+        System.out.println("this is only a test!");
     }
 }
